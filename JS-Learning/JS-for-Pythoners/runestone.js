@@ -154,6 +154,3 @@ function buttonMaker(parent) {
     bp.appendChild(b)
 }
 buttonMaker("buttondiv")
-
-// Ch5: Web Programming
-
